@@ -10,6 +10,10 @@
   "author": "Sounak Nandi",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.7"
+    "nodemon": "^3.1.7",
+    "prettier": "^3.3.3"
+  },
+  "dependencies": {
+    "youtube-app": "file:"
   }
 }
